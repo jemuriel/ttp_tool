@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+fpdf
+matplotlib
+datetime
+requests
+pyodbc
+intervaltree
