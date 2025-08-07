@@ -1,2 +1,1 @@
-csv/historical_5years.csv filter=lfs diff=lfs merge=lfs -text
 csv_files/historical_5years.csv filter=lfs diff=lfs merge=lfs -text
